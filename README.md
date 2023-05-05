@@ -5,7 +5,7 @@
 <img src="https://th.bing.com/th/id/OIP.c6Tbz7IbCn9bVXzXQSOqhgHaFN?pid=ImgDet&rs=1" alt="A picture of a fruit basket" width="300" height="200" >
 
 - Tony loves:
-  - Apple
+  - banana
   - Mango
   - Guava
   - Grapes
