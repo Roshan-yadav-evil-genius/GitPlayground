@@ -2,7 +2,7 @@
 ## Repository for explaining team members about git workflow
 
 
-<img src="https://source.unsplash.com/random/300x300/?fruit" alt="A picture of a fruit basket" width="300" height="200">
+<img src="https://source.unsplash.com/random/300x300/?fruit" alt="A picture of a fruit basket" width="300" height="200"  style="border-radius: 10px;">
 
 - Tony loves:
   - Apple
@@ -11,7 +11,7 @@
   - Grapes
  
 
-<img src="https://source.unsplash.com/random/300x300/?vehicle" alt="A picture of a fruit basket" width="300" height="200">
+<img src="https://source.unsplash.com/random/300x300/?vehicle" alt="A picture of a fruit basket" width="300" height="200"  style="border-radius: 10px;">
 
 
 - Guddu loves:
